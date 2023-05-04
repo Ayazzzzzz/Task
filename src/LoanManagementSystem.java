@@ -6,6 +6,7 @@ public class LoanManagementSystem {
     private static Map<String, String> loanApplications = new HashMap<>();
 
     public static void main(String[] args) {
+        System.out.println("dasd");
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Tam adınızı girin: ");
@@ -75,4 +76,4 @@ public class LoanManagementSystem {
     }
 }
 
-}
+

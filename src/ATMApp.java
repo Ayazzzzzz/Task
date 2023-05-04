@@ -8,6 +8,7 @@ public class ATMApp {
     private static Map<String, Double> cashCodes = new HashMap<>();
 
     public static void main(String[] args) {
+        System.out.println("dasd");
         initializeUsers(); // Kullanıcı verilerini başlat
 
         Scanner scanner = new Scanner(System.in);

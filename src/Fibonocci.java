@@ -18,6 +18,7 @@ public class Fibonocci {
         }
 
         public static void main(String[] args) {
+            System.out.println("dasd");
             int n = 10;
             int[] fibonacciSequence = fibonacci(n);
             for (int num : fibonacciSequence) {
